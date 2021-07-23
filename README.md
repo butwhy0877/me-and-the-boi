@@ -21,9 +21,13 @@ the easiest way to achieve the endgoal without much tinkering with internet serv
 why did i not think of that
 
 ---
-By Jones Malones
+
 # concept
-a character possesses 5 base stat(toughness, fortitude, intelligent, wealth, charisma) which affects how they performs when the stats is altered through buff/nerf skills
+
+By Jones Malones
+---
+
+a character possesses 5 base stat(toughness, fortitude, intelligent, wealth, charisma) which affects how they performs when the stats is altered through buffing/nerfing stats using skills or bullshitting
 # main mechanic
 (credit is due to me friend, Jones Malones)
 ## the bullshit system
