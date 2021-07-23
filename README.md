@@ -7,13 +7,19 @@ to make myself suffer and have fun
 # the idea
 a card battle game thing
 
+
 # endgoal
 - make the systems works(literally)
 - maybe get a (pen)tablet
-- make art asset
-- maybe gui(python gtk library?)
+- make art asset???
+- <s>maybe gui(python gtk library?)</s>
 - convince my parents to buy me better hardware
-- not port this to better,faster,superior programming language
+- not port this to better,faster,superior programming language(big no need)
+
+# how to
+the easiest way to achieve the endgoal without much tinkering with internet server for multiplayer capability is to use discord by making this into discordbot <br>
+why did i not think of that
+
 ---
 By Jones Malones
 # concept
