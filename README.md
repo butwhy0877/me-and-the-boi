@@ -7,7 +7,8 @@ to make myself suffer and have fun
 # the idea
 a card battle game thing
 
-
+# nowgoal
+make this into a discord bot
 # endgoal
 - make the systems works(literally)
 - maybe get a (pen)tablet
