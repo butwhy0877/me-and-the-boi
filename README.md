@@ -9,9 +9,10 @@ a card battle game thing
 
 # endgoal
 - make the systems works(literally)
+- maybe get a (pen)tablet
 - make art asset
-- maybe gui 
-- convince my mother to buy me better hardware
+- maybe gui(python gtk library?)
+- convince my parents to buy me better hardware
 - not port this to better,faster,superior programming language
 ---
 By Jones Malones
