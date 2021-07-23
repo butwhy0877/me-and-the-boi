@@ -13,11 +13,12 @@ a card battle game thing
 - maybe gui 
 - convince my mother to buy me better hardware
 - not port this to better,faster,superior programming language
-
+---
+By Jones Malones
 # concept
 a character possesses 5 base stat(toughness, fortitude, intelligent, wealth, charisma) which affects how they performs when the stats is altered through buff/nerf skills
 # main mechanic
-(credit is due to [will insert name here])
+(credit is due to me friend, Jones Malones)
 ## the bullshit system
 comprises of the bullshit attack and bullshit defense stats, this system is the main mechanic that allows character "cards" to <s>d-d-ddd duel</s>
 fight each other
