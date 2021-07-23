@@ -26,6 +26,11 @@ fight each other
 related or is part of "the bullshit system", 
 # skills
 passive yet effective
+# items
+what is this? super mario rpg, no 
+noteworthy
+- phone
+- glasses
 # how to incorperate it all together
 i was sleep deprived when this concept came to be
 
