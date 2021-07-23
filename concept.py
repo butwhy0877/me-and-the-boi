@@ -1,5 +1,6 @@
 # stats mock-up 
 
+# temporary value
 very_low = (10)
 low = (31)
 medium_low = (51)
