@@ -27,7 +27,7 @@ related or is part of "the bullshit system",
 # skills
 passive yet effective
 # items
-what is this? super mario rpg, no 
+what is this? super mario rpg, no <br>
 noteworthy
 - phone
 - glasses
@@ -36,4 +36,4 @@ i was sleep deprived when this concept came to be
 
 
 # help
-help
+[help](https://azurlane.koumakan.jp/Azur_Lane_Wiki)
